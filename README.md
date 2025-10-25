@@ -1,31 +1,39 @@
-<h1>Hi, I'm Bolaji! <br/><a href="https://github.com/oluwasbolaji">Programmer</a>, <a href="https://www.linkedin.com/in/oluwasbolaji/">Software Engineer</a></h1>
+# 👋 Hi, I'm Bolaji!
 
-<h2>👨‍💻 Software Development Projects:</h2>
+I'm a **Junior Frontend Developer** currently learning to build clean and responsive user interfaces.
 
-<h2>📑 Certifications</h2>
+---
 
+### 🌱 Currently Learning
+- HTML, CSS, JavaScript
+- React (beginner level)
+- Git & GitHub fundamentals
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🔧 Tools I Work With
+- VS Code
+- Git & GitHub
+- Chrome DevTools
 
-[youtube]: https://www.youtube.com/Oluwasbolaji
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/oluwasbolaji
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 My Goals
+- Practice consistently
+- Build real-world beginner-friendly projects
+- Improve problem-solving & UI skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 What I'm Doing Right Now
+I am building small practice projects and sharing my learning process here on GitHub.  
+I believe **small progress every day leads to big results**. 💪
+
+---
+
+### 📫 Reach Me On
+- LinkedIn: www.linkedin.com/in/oluwasbolaji
+
+---
+
+Thanks for visiting! 😊
